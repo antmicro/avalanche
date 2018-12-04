@@ -1,0 +1,16 @@
+Microsemi Corporation - Microsemi Libero Software Release PolarFire v2.3 (Version 12.200.35.9)
+
+Date      :  Wed Nov 14 19:20:28 2018
+Project   :  C:\Users\Piotr\Desktop\wd\ddr_test
+Component :  ddr3
+Family    :  PolarFire
+
+
+HDL source files for all Synthesis and Simulation tools:
+    C:/Users/Piotr/Desktop/wd/ddr_test/component/Actel/SgCore/PF_DDR_CFG_INIT/1.0.100/cfg_init.v
+    C:/Users/Piotr/Desktop/wd/ddr_test/component/work/ddr3/CCC_0/ddr3_CCC_0_PF_CCC.v
+    C:/Users/Piotr/Desktop/wd/ddr_test/component/work/ddr3/DDRCTRL_0/CoreDDRMemCtrlr_0.v
+    C:/Users/Piotr/Desktop/wd/ddr_test/component/work/ddr3/DDRCTRL_0/sdram_lb_defines_0.v
+    C:/Users/Piotr/Desktop/wd/ddr_test/component/work/ddr3/DLL_0/ddr3_DLL_0_PF_CCC.v
+    C:/Users/Piotr/Desktop/wd/ddr_test/component/work/ddr3/ddr3.v
+
